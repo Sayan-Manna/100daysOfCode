@@ -10,5 +10,6 @@ Today I've started basic > java syntax > Conditional Statement(ifelse) > Data Ty
 I also made a simple calculator using the SwitchCase
 I also started a projet called TripPlanner of Microsoft. The problem statements, hints are given.
 #### C
+Today I started the basic hello world program in c. Then I've completed variables , data types and User input.
 
 
