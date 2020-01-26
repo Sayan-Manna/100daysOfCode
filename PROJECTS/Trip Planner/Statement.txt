@@ -1,9 +1,9 @@
-##Part 1 – Greeting
+## Part 1 – Greeting
 First, you’ll want to greet your user and ask them their name. As you can see above the user types their response on the same line as the question. To do this you’ll want to use a System.out.print() statement instead of a System.out.println() statement. Once your user tells you their name use it to greet them! Then ask them where they would like to go. Finally, tell your user their destination sounds like a great trip. All the code to accomplish Part 1 should be in its own method.
 
-#HINT: Some names and destinations are more than 1 word! Plan accordingly.
+# HINT: Some names and destinations are more than 1 word! Plan accordingly.
 
-##Part 2 – Travel time and Budget
+## Part 2 – Travel time and Budget
 For this part, you’ll want to ask the user about how much time and money they are budgeting for their trip. Ask the user:
 
 How many days are they going to spend in their destination?
@@ -18,23 +18,23 @@ Show the user their budget in the travel destination’s currency for the total 
 All the code to accomplish Part 2 should be in its own method.
 
 
-#HINT: keep in mind that if you divide integers you might lose some information when it truncates.
+# HINT: keep in mind that if you divide integers you might lose some information when it truncates.
 
-##Part 3 – Time Difference
+## Part 3 – Time Difference
 For this part, you’ll need to ask the user about the time difference between their home and where they are going. If the destination time zone is “behind” the user’s home time zone the user should enter a negative number. For example, the time difference between Seattle and Nairobi is 9 hours, and the time difference between New York and Mexico City is -1 hours.
 
 Show the time it will be in the travel destination when it is midnight at home and when it is noon at home. You can report these in 24 format, where midnight is 0:00 and noon is 12:00.
 
-#HINT: Your answers might be greater than 24. Try using the % or mod operator to "wrap around" to 24-hour time format. For example, 12 % 24 is 12, but 25 % 24 is 1.
+# HINT: Your answers might be greater than 24. Try using the % or mod operator to "wrap around" to 24-hour time format. For example, 12 % 24 is 12, but 25 % 24 is 1.
 
 All the code to accomplish Part 3 should be in its own method.
 
-##Part 4 – Country Area
+## Part 4 – Country Area
 Only three countries in the world us the "imperial system", so most countries report their distances in kilometers. For this part, ask the user the area of their travel destination country in km^2. Then you’ll want to convert that to miles^2 and report those results back to the user.
 
 All the code to accomplish Part 4 should be in its own method.
 
-##Part 5 – Round
+## Part 5 – Round
 You may have noticed some of our math has produced numbers with lots of decimal places, making then not look very nice. In this part, you need to go back and clean up those answers so they each only have 2 decimal places.
 
 To do this you are going to use a combination of ints and doubles.
@@ -49,7 +49,7 @@ If you follow the above steps you should find that any of your answers are not l
 
 This code will need to be added to each of the methods you wrote for parts II, III and IV.
 
-##Part 6 – Hacker Problem - How Far?
+## Part 6 – Hacker Problem - How Far?
 For extra fun, calculate the distance between the user’s home and their travel destination using the Haversine formula. https://en.wikipedia.org/wiki/Haversine_formula To do this you’ll need to ask the user to enter the longitude and latitude for their home and their travel destination. You’ll also need to do some pretty fancy math.
 
 To do fancy math in Java (cos, sin, squared etc…) you can use the Math Class. Here is the documentation for that: https://docs.oracle.com/javase/7/docs/api/java/lang/Math.html All the code to accomplish the hacker problem should be in its own method.
