@@ -17,4 +17,9 @@ I startted loops and done many problems like finding factorial, Fibonacci Number
 #### C
 I've learned to take user input and multiple input in C.
 
+### D3 (28th Jan)
+#### JAVA
+I started 1D array. Practiced problems GeekForGeeks.
+#### C
+I've learned Input and Output , Formatted Input and Operator.
 
