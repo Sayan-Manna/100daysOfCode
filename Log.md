@@ -23,3 +23,11 @@ I started 1D array. Practiced problems GeekForGeeks.
 #### C
 I've learned Input and Output , Formatted Input and Operator.
 
+### D4 (29th Jan)
+#### JAVA
+>1D array (HackerRank)
+>MULTI-D ARRAYS
+>Practiced previous Topics
+#### C
+> If Else Statement
+>Nested IfElse 
