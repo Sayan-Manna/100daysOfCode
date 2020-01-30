@@ -31,3 +31,11 @@ I've learned Input and Output , Formatted Input and Operator.
 #### C
 - If Else Statement
 - Nested IfElse 
+
+### D5 (30th Jan)
+#### JAVA
+- Matrix addition/Subtraction
+- Matrix Multiplication
+- GFG (Sum of array elements, Reversing an array)
+#### C
+- Practiced IfElse
