@@ -107,4 +107,54 @@ I've learned Input and Output , Formatted Input and Operator.
 - Recursion
 - Problems (Assignment based)
 
+### D 21-29
+#### Java
+- OOPs
+#### C
+- array
+- sorting algo
+- recursion
+- pointer
+
+### D 30-40
+#### JAVA
+- CP
+#### C
+- CP
+
+### D 41-49
+#### JAVA
+- CP
+#### C
+- CP
+
+### D 50-58
+#### JAVA
+- Previous Topics
+#### C
+- Structure and Union
+- Previous Topics
+
+### D 59-68
+#### JAVA
+- Java Problem solving with software Coursera Duke University completed
+#### C
+- Programming Fundamentals , Writing Running and Fixing code by Duke University completed
+
+### D 69-78
+- HTML and JS by Michigan University completed.
+
+### D 79-90
+- Programming For everybody: getting started with python by michigan university completed
+= Introduction to CSS3 by michigan university completed.
+- Programming Foundations with html css and js by Duke University completed
+
+### D 91-100
+#### JAVA
+- CP
+#### C
+- CP
+
+
+
 
